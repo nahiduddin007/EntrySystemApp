@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "607382307501",
+    "firebase_url": "https://mini-doctor-d2a12.firebaseio.com",
+    "project_id": "mini-doctor-d2a12",
+    "storage_bucket": "mini-doctor-d2a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607382307501:android:5bdb01a800b52878",
+        "android_client_info": {
+          "package_name": "com.nahiduddinahammed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607382307501-m5kera8j6bkn8oer939iue6jg5qheoub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcMOEqV9W7SMrbiRiWlWVZlnFZLBNp_5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
